@@ -14,9 +14,9 @@ CAMerlang is a quick &amp; efficient skin problems detection mobile application 
 
 |            Member           				| Student ID |        Path        |                                                       Contacts                                                      |
 | :---------------------------------------: | :--------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Muhammad Reza Azhar Priyadi        | M2005F0429 |  Machine Learning  |        [LinkedIn](https://www.linkedin.com/in/ericjulianto/) or [Github](https://github.com/algonacci)           |
-|      			Fadli Fadillah     	        | M2128F1581 |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/aghni-syifa-ahmari-a613a6206/) or [Github](https://github.com/aghnisyifa)  |
-|     Lonard Steven     | A2005F0440 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/setyofajar/) or [Github](https://github.com/setyofp)             |
-|      Arya Fikryhuda Nurpatria     | A2128F1578 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/widya-puji-saputro-bb8a74129/) or [Github](https://github.com/Widi-ps)    |
-|     Tomi Timutius     | C2010F1059 |   Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/putusintia/) or [Github](https://github.com/sintiasnn)            |
-| Aldycky Bagus Witjaksana | C2128F1582 |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah) |
+|        Muhammad Reza Azhar Priyadi        | M2005F0429 |  Machine Learning  |        [LinkedIn]()           |
+|      			Fadli Fadillah     	        | M2128F1581 |  Machine Learning  |      [LinkedIn]()|
+|     Lonard Steven     | A2005F0440 | Mobile Development |     [LinkedIn]()            |
+|      Arya Fikryhuda Nurpatria     | A2128F1578 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/arya-fikryhuda-nurpatria-842247225/)|
+|     Tomi Timutius     | C2010F1059 |   Cloud Computing  |              [LinkedIn]()|
+| Aldycky Bagus Witjaksana | C2128F1582 |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/aldycky-bagus-witjaksana-4969441b0/)|
