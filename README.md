@@ -20,7 +20,7 @@ CAMerlang is built as a requirement for Bangkit 2022's Product-based Capstone Pr
 |      			Fadli Fadillah     	        | M2128F1581 |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/fadlifadillah17/), [GitHub](https://github.com/fadlifad17)|
 |     Lonard Steven     | A2005F0440 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/lonardsteven), [GitHub](https://www.github.com/lonard2)            |
 |      Arya Fikryhuda Nurpatria     | A2128F1578 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/arya-fikryhuda-nurpatria-842247225/), [GitHub](https://github.com/arya-fh-n)|
-|     Tomi Timutius     | C2010F1059 |   Cloud Computing  |              [LinkedIn](https://www.linkedin.com/mwlite/in/tomi-timutius-31b1ba137), [GitHub](https://github.com/kurak57)|
+|     Tomi Timutius     | C2010F1059 |   Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/tomi-timutius-31b1ba137/), [GitHub](https://github.com/kurak57)|
 | Aldycky Bagus Witjaksana | C2128F1582 |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/aldycky-bagus-witjaksana-4969441b0/), [GitHub](https://github.com/aldybw)|
 
 # Repositories
