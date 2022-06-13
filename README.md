@@ -10,7 +10,7 @@
 CAMerlang is a quick &amp; efficient skin problems detection mobile application that provides you problems diagnosis, articles picked by skin experts, and libraries of credible information.
 
 # Bangkit Product-based Capstone Project
-CAMerlang is built as a requirement for Bangkit 2022's Product-based Capstone Project.
+CAMerlang is built as a requirement for Bangkit 2022's Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below). 
 
 # Team Members
 
