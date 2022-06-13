@@ -16,7 +16,7 @@ CAMerlang is built as a requirement for Bangkit 2022's Product-based Capstone Pr
 
 |            Member           				| Student ID |        Path        |                                                       Contacts                                                      |
 | :---------------------------------------: | :--------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Muhammad Reza Azhar Priyadi        | M2005F0429 |  Machine Learning  |        [LinkedIn](), [Github](https://github.com/Azer2401)           |
+|        Muhammad Reza Azhar Priyadi        | M2005F0429 |  Machine Learning  |        [LinkedIn](https://www.linkedin.com/in/reza-azhar-2873a5131/), [Github](https://github.com/Azer2401)           |
 |      			Fadli Fadillah     	        | M2128F1581 |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/fadlifadillah17/), [Github](https://github.com/fadlifad17)|
 |     Lonard Steven     | A2005F0440 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/lonardsteven), [Github](https://www.github.com/lonard2)            |
 |      Arya Fikryhuda Nurpatria     | A2128F1578 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/arya-fikryhuda-nurpatria-842247225/), [Github](https://github.com/arya-fh-n)|
@@ -28,7 +28,7 @@ CAMerlang is built as a requirement for Bangkit 2022's Product-based Capstone Pr
 | Paths | Link |
 | :---: | :---: |
 | Mobile Development | [Github](https://github.com/lonard2/CAMerlang-Mobile-Development) |
-|  Machine Learning  |  [Github]()  |
+|  Machine Learning  |  [Github](https://github.com/fadlifad17/CAMerlang-ML-Model.git)  |
 |   Cloud Computing  |   [Github](https://github.com/aldybw/CAMerlang-sql-rest-api)  |
 
 # License
